@@ -29,4 +29,7 @@ Hints
 - the Norwegian lives next to the blue house
 - the man who smokes blend has a neighbor who drinks water
 
+Approach to solution:
+=====================
+
 
